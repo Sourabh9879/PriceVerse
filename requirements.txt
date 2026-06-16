@@ -1,0 +1,8 @@
+streamlit
+playwright
+requests
+pandas
+python-dotenv
+google-search-results
+beautifulsoup4
+rapidfuzz
